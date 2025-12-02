@@ -1,6 +1,6 @@
 # Chat API Endpoint
 
-The Chat API is the core endpoint that powers Luna402's AI conversations.
+The Chat API is the core endpoint that powers NECRONA's AI conversations.
 
 ## Endpoint
 
@@ -176,7 +176,7 @@ Enables the AI to:
 
 The endpoint includes a comprehensive system prompt that defines:
 
-1. **Identity**: "Luna402" cryptocurrency oracle
+1. **Identity**: "NECRONA" cryptocurrency oracle
 2. **Capabilities**: Web search, token analysis, risk assessment
 3. **Security directives**: Prompt injection protection
 4. **Personality traits**: Wise, data-driven, cautious
@@ -417,4 +417,5 @@ Consider testing:
 
 ---
 
-**Need help?** Check [Troubleshooting](../troubleshooting/api-errors.md) or [open an issue](https://github.com/yourusername/luna402/issues).
+**Need help?** Check [Troubleshooting](../troubleshooting/api-errors.md) or [open an issue](https://github.com/yourusername/NecronaLabs/issues).
+
