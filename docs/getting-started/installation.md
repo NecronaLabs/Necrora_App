@@ -1,18 +1,18 @@
-# Accessing Luna402
+# Accessing Necorna
 
-Luna402 is a closed-source, web-based platform. There is no installation required - simply access it through your web browser.
+Necorna is a closed-source, web-based platform. There is no installation required - simply access it through your web browser.
 
 ## How to Access
 
-Luna402 is available exclusively through our web application:
+Necorna is available exclusively through our web application:
 
-1. **Visit the Website**: Navigate to [luna402.xyz](https://luna402.xyz)
+1. **Visit the Website**: Navigate to [Necorna.xyz](https://Necorna.xyz)
 2. **Launch the App**: Click the "Launch App" button on the homepage
 3. **Start Chatting**: Begin your conversation with the AI oracle
 
 ## System Requirements
 
-To use Luna402, you need:
+To use Necorna, you need:
 
 - **A Modern Web Browser**:
   - Google Chrome (recommended) - Version 90 or later
@@ -26,12 +26,12 @@ To use Luna402, you need:
   - The platform streams AI responses in real-time
 
 - **JavaScript Enabled**:
-  - Luna402 requires JavaScript to function
+  - Necorna requires JavaScript to function
   - Ensure JavaScript is enabled in your browser settings
 
 ## Browser Compatibility
 
-Luna402 works best on:
+Necorna works best on:
 
 - **Desktop Browsers**: Full-featured experience with all animations and effects
 - **Mobile Browsers**: Responsive design optimized for mobile devices
@@ -55,7 +55,7 @@ For the best experience:
 
 ## No Account Required
 
-Luna402 does not require:
+Necorna does not require:
 
 - Account registration
 - Email verification
@@ -73,7 +73,7 @@ Simply visit the website and start using the platform immediately.
 
 ## Rate Limiting
 
-To ensure fair usage and system stability, Luna402 implements:
+To ensure fair usage and system stability, Necorna implements:
 
 - **50-Second Cooldown**: Wait 50 seconds between messages
 - **Refresh Protection**: Cooldown persists across page refreshes
@@ -113,21 +113,22 @@ If the chat interface doesn't respond:
 
 ## Getting Help
 
-If you encounter any issues accessing Luna402:
+If you encounter any issues accessing Necorna:
 
-- **Email Support**: [support@luna402xyz.xyz](mailto:support@luna402xyz.xyz)
-- **Discord Community**: [Join our Discord](https://discord.gg/luna402)
-- **X**: [@luna402xyzxyz](https://x.com/luna402xyzxyz)
+- **Email Support**: [support@Necornaxyz.xyz](mailto:support@Necornaxyz.xyz)
+- **Discord Community**: [Join our Discord](https://discord.gg/Necorna)
+- **X**: [@Necornaxyzxyz](https://x.com/Necornaxyzxyz)
 - **FAQ**: Check our [Frequently Asked Questions](../appendix/faq.md)
 
 ## Next Steps
 
-Now that you understand how to access Luna402:
+Now that you understand how to access Necorna:
 
 1. Visit the [Quick Start Guide](quick-start.md) to learn how to use the platform
 2. Read about [AI Model Training](ai-model-training.md) to understand our technology
-3. Explore [Features](../features/ai-chat.md) to discover what Luna402 can do
+3. Explore [Features](../features/ai-chat.md) to discover what Necorna can do
 
 ---
 
-**Ready to get started?** Visit [luna402.xyz](https://luna402.xyz) and launch Luna402 now →
+**Ready to get started?** Visit [Necorna.xyz](https://Necorna.xyz) and launch Necorna now →
+
