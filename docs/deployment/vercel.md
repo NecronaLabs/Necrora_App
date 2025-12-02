@@ -1,10 +1,10 @@
 # Platform Infrastructure
 
-Luna402 is a professionally managed, cloud-hosted platform. This page provides information about our infrastructure and deployment architecture for informational purposes.
+Necrona is a professionally managed, cloud-hosted platform. This page provides information about our infrastructure and deployment architecture for informational purposes.
 
 ## Cloud Infrastructure
 
-Luna402 operates on enterprise-grade cloud infrastructure designed for:
+Necrona operates on enterprise-grade cloud infrastructure designed for:
 
 ### High Availability
 
@@ -143,9 +143,9 @@ Our deployment follows industry best practices:
 
 ### Public Status Page
 
-Monitor Luna402's status in real-time:
+Monitor Necrona's status in real-time:
 
-- **URL**: [status.luna402.xyz](https://status.luna402.xyz)
+- **URL**: [status.necronalabs.tech](https://status.necronalabs.tech)
 - **Uptime History**: 30-day uptime statistics
 - **Incident Reports**: Transparent incident communication
 - **Scheduled Maintenance**: Advance notification of maintenance
@@ -198,8 +198,6 @@ Monitor Luna402's status in real-time:
 
 For infrastructure or platform inquiries:
 
-- **Email**: [support@luna402xyz.xyz](mailto:support@luna402xyz.xyz)
-- **Status Updates**: [@luna402xyzxyz](https://x.com/luna402xyzxyz) on Twitter
 - **Incident Reports**: Posted on status page
 - **Technical Documentation**: This documentation site
 
@@ -215,3 +213,4 @@ Coming improvements:
 ---
 
 **Want to know more?** Check our [FAQ](../appendix/faq.md) or contact our support team.
+
