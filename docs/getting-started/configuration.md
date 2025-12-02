@@ -1,10 +1,10 @@
 # Platform Configuration
 
-Luna402 is a fully managed, cloud-based platform. There are no configuration files or settings to manage - everything is optimized and ready to use out of the box.
+Necrona is a fully managed, cloud-based platform. There are no configuration files or settings to manage - everything is optimized and ready to use out of the box.
 
-## About Luna402 Platform
+## About NecronaPlatform
 
-Luna402 runs on a sophisticated infrastructure designed for:
+Necrona runs on a sophisticated infrastructure designed for:
 
 - **High Availability**: 99.9% uptime guarantee
 - **Global Performance**: Distributed across multiple regions
@@ -39,7 +39,7 @@ This rate limiting ensures:
 
 ### Data Sources
 
-Luna402 aggregates data from multiple sources:
+Necronaaggregates data from multiple sources:
 
 - **DexScreener**: Real-time DEX trading data
 - **CoinGecko**: Market cap and price information
@@ -51,13 +51,13 @@ All data sources are continuously monitored and updated to ensure accuracy.
 
 ## Browser Settings
 
-For the best experience with Luna402:
+For the best experience with Necrona:
 
 ### Recommended Browser Settings
 
 1. **JavaScript**: Must be enabled
 2. **Cookies**: Allow for session management
-3. **Pop-ups**: Allow from Luna402 domain
+3. **Pop-ups**: Allow from Necrona domain
 4. **Auto-fill**: Can be enabled for convenience
 
 ### Performance Optimization
@@ -68,7 +68,7 @@ For the best experience with Luna402:
 
 ### Privacy Settings
 
-Luna402 respects your privacy:
+Necrona respects your privacy:
 
 - No tracking cookies
 - No personal data collection
@@ -88,7 +88,7 @@ Recommended resolutions:
 
 ### Color Mode
 
-Luna402 features:
+Necrona features:
 
 - **Dark Theme**: Default futuristic dark interface
 - **High Contrast**: Optimized for readability
@@ -96,7 +96,7 @@ Luna402 features:
 
 ## Accessibility
 
-Luna402 is designed to be accessible:
+Necrona is designed to be accessible:
 
 - **Keyboard Navigation**: Full keyboard support
 - **Screen Readers**: Compatible with major screen readers
@@ -114,7 +114,7 @@ Expected performance metrics:
 
 ## Security Features
 
-Luna402 includes built-in security:
+Necronaincludes built-in security:
 
 - **HTTPS Encryption**: All communications encrypted
 - **Prompt Injection Protection**: Prevents manipulation attempts
@@ -126,13 +126,13 @@ Luna402 includes built-in security:
 
 Check platform status:
 
-- **Uptime Monitor**: [status.luna402.xyz](https://status.luna402.xyz)
+- **Uptime Monitor**: [status.necronalabs.tech](https://status.necronalabs.tech)
 - **Performance Metrics**: Real-time on homepage
 - **Maintenance Notifications**: Announced on X
 
 ## Regional Availability
 
-Luna402 is available globally with optimized performance in:
+Necrona is available globally with optimized performance in:
 
 - **North America**: US, Canada
 - **Europe**: EU countries, UK
@@ -166,7 +166,7 @@ Currently supported:
 
 ## Mobile App
 
-Currently, Luna402 is web-based only:
+Currently, Necronais web-based only:
 
 - Fully responsive mobile web interface
 - Native mobile apps: Coming in future updates
@@ -174,7 +174,7 @@ Currently, Luna402 is web-based only:
 
 ## Fair Usage Policy
 
-Luna402 is designed for cryptocurrency analysis. We ask users to:
+Necrona is designed for cryptocurrency analysis. We ask users to:
 
 - Use the platform for legitimate research
 - Respect the rate limiting
@@ -197,17 +197,16 @@ Violations may result in temporary access restrictions.
 
 For technical support or questions:
 
-- **Email**: [support@luna402xyz.xyz](mailto:support@luna402xyz.xyz)
-- **Discord**: [Join our community](https://discord.gg/luna402)
-- **X**: [@luna402xyzxyz](https://x.com/luna402xyzxyz)
+- **X**: [@Necorna_Labs](https://x.com/necorna_labs)
 - **Documentation**: Check other guides in this documentation
 
 ## Next Steps
 
-- [Quick Start Guide](quick-start.md) - Start using Luna402
+- [Quick Start Guide](quick-start.md) - Start using Necorna
 - [AI Model Training](ai-model-training.md) - Learn about our AI
 - [Features Overview](../features/ai-chat.md) - Discover all features
 
 ---
 
 **Questions about the platform?** Check our [FAQ](../appendix/faq.md) for answers to common questions.
+
