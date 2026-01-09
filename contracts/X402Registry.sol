@@ -268,3 +268,4 @@ contract X402Registry is Ownable {
         return verifiedServices[serviceId];
     }
 }
+
