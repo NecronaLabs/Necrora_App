@@ -521,3 +521,4 @@ describe('X402Registry', function () {
     });
   });
 });
+
