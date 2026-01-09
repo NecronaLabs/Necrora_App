@@ -1,6 +1,6 @@
 # Rate Limiting
 
-NECRORA implements a robust rate limiting system to prevent abuse and ensure fair usage across all users.
+NEPHARA implements a robust rate limiting system to prevent abuse and ensure fair usage across all users.
 
 ## Overview
 
@@ -133,7 +133,7 @@ useEffect(() => {
       another message.
     </span>
   ) : (
-    'NECRORA provides AI-generated insights. Always do your own research.'
+    'NEPHARA provides AI-generated insights. Always do your own research.'
   );
 }
 ```
@@ -328,6 +328,7 @@ Potential improvements:
 - [State Management](../architecture/state-management.md)
 
 ---
+
 
 
 
