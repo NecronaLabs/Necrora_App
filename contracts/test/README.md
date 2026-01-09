@@ -1,6 +1,6 @@
-# NECRORA Smart Contract Tests
+# NEPHARA Smart Contract Tests
 
-Comprehensive test suite for all NECRORA smart contracts using Hardhat and Chai.
+Comprehensive test suite for all NEPHARA smart contracts using Hardhat and Chai.
 
 ## Test Files
 
@@ -241,4 +241,5 @@ Recommended CI pipeline:
 - [Chai Assertions](https://www.chaijs.com/api/bdd/)
 - [OpenZeppelin Test Helpers](https://docs.openzeppelin.com/test-helpers/)
 - [Waffle Matchers](https://ethereum-waffle.readthedocs.io/en/latest/matchers.html)
+
 
